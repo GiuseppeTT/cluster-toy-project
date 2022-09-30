@@ -10,7 +10,7 @@
 #SBATCH --mem-per-cpu=4096
 #SBATCH --cpus-per-task=1
 
-module load R # Comment out if R is not an environment module.
+module load r # Comment out if R is not an environment module.
 R CMD BATCH run.R
 
 # Removing .RData is recommended.
