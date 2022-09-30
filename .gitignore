@@ -1,5 +1,6 @@
 ################################################################################
 # From GitHub's .gitignore
+# https://github.com/github/gitignore/blob/main/R.gitignore
 
 # History files
 .Rhistory
