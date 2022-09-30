@@ -1,3 +1,6 @@
+################################################################################
+# From GitHub's .gitignore
+
 # History files
 .Rhistory
 .Rapp.history
@@ -37,3 +40,9 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+################################################################################
+# Manually added
+
+_targets/
+run.Rout
