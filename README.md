@@ -1,4 +1,4 @@
-# cluster-toy-project
+# Cluster toy project
 
 ## Description
 
